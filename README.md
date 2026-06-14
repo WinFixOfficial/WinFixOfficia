@@ -36,7 +36,7 @@ If you prefer not to run an unverified executable, you can inspect the code your
 1. Install Python 3 on your system.
 2. Download the `winfix.py` source file from this repository.
 3. Open your command prompt (`cmd`) as an Administrator.
-4. Navigate to the folder and run:     NOTE(ai Command_creator advanced mode is in beta and dosent work so if there is advanced or something like that in the request it will fail im sorry for this it will be fixed shortly)
+4. Navigate to the folder and run:     NOTE(ai Command_creator advanced mode is in beta and dosent work so if there is advanced or something like that in the request it will fail im sorry for this it will be fixed shortly but only in the python version .exe works fine)
    ```bash
    python winfix.py
 
